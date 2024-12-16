@@ -11,17 +11,34 @@ This should open a new window where you can toggle/adjust the UI in order to upl
 
 You can then save the resulting image/video or snapshot (in the case of a webcam) to your local systen. 
 
-## Implemented Face Filters 
-//
+## Implemented Face Filters (and corresponding keypoints)
+<img src ="https://github.com/user-attachments/assets/e073fde2-2750-4aae-87d8-e5c5e0cd44fe" width=300/>
+
+- Hat: (36, 42) and (42, 48) 
+- Glasses: (36,42) and (42, 48)
+- Mustache: (48, 51) and (52, 55)
+- Tie: (6, 8) and (8,9) and shifted down to be in the ‘tie area’
+
 
 ## Implemented Post Process Effects 
-//
+- Gaussian Blur 
+- Edge Detection 
+- Sepia 
+- Filmgrain 
+- Pixelate 
+- Negative 
+- Dither
+- Kuwahara (Painterly) 
+- Bitmap 
+- Blending with a static image 
+- Broken VCR 
+
 
 ## Demo Video 
-// 
+https://drive.google.com/file/d/1nyJ3fYtAd-0Nc8-p1z3lIcPCry2BYF8V/view?usp=sharing
 
 ## Slides with more Information 
-// 
+https://docs.google.com/presentation/d/1cApImXeQelXSxFUAkGBn4GYGo6EUSvbKqmWm9BXNl7o/edit?usp=sharing
 
 ## Attribution 
 - Kuwahara Filter was created with the help of: https://github.com/adussault/python-kuwahara/blob/master/Kuwahara.py#L96 and https://en.wikipedia.org/wiki/Kuwahara_filter# 
