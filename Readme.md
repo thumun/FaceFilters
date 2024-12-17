@@ -1,4 +1,5 @@
 # Face Filters 
+![image](https://github.com/user-attachments/assets/8538cfc5-1566-475c-87ca-1162d2531eff)
 
 This is our (Neha and Yamin's) final assignment for Computer Vision (CIS5810). We created a program where you can upload images, upload videos, or use webcam to try out our various filters. We have both filters that work by associating specific filters with the proper facial keypoints (for example, sunglasses with the area around one's eyes) as well as post-processing filters which apply affects to an entire image or frame. 
 
