@@ -35,9 +35,14 @@ You can then save the resulting image/video or snapshot (in the case of a webcam
 
 
 ## Demo Video 
+https://drive.google.com/file/d/1tcWG63UrJsFANrj7QUNIeR2imL4aoeiF/view?usp=sharing
+
+## Additional Material
+
+### Additional demo video
 https://drive.google.com/file/d/1nyJ3fYtAd-0Nc8-p1z3lIcPCry2BYF8V/view?usp=sharing
 
-## Slides with more Information 
+### Slides with more Information 
 https://docs.google.com/presentation/d/1cApImXeQelXSxFUAkGBn4GYGo6EUSvbKqmWm9BXNl7o/edit?usp=sharing
 
 ## Attribution 
